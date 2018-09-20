@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1537422906 source:c:\users\geoal\documents\estructura_de_datos\unidad_1ejercicio\ahorcado\src\ahorcado.cpp
+	"ahorcado.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+	<time.h>
+
+1537423440 c:\users\geoal\documents\estructura_de_datos\unidad_1ejercicio\ahorcado\include\ahorcado.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<vector>
+	<time.h>
+
+1537422974 source:c:\users\geoal\documents\estructura_de_datos\unidad_1ejercicio\ahorcado\main.cpp
+	<iostream>
+	"ahorcado.h"
+
